@@ -3,7 +3,7 @@
 
 {
     "name": "Server environment for Account Invoice Export",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "author": "Camptocamp,Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "category": "Tools",

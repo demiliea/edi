@@ -3,7 +3,7 @@
 
 {
     "name": "Sale Order Packaging Import",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "category": "Sales Management",
     "license": "AGPL-3",
     "summary": "Import the packaging on the sale order line",
